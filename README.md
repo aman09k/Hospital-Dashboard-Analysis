@@ -64,13 +64,7 @@ The data was cleaned and structured before visualization.
 - Billing and insurance amounts show a close relationship  
 - Doctor feedback is evenly distributed, indicating consistent service quality  
 
----
 
-## ▶️ How to Use This Project
-1. Clone or download the repository  
-2. Open the `.pbix` file using **Power BI Desktop**  
-3. Use slicers to filter by patient ID and date range  
-4. Interact with visuals to explore insights  
 
 ---
 
